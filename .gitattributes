@@ -1,0 +1,12 @@
+# Set default behavior to use LF line endings
+* text=auto eol=lf
+
+# Force specific text files to LF
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
