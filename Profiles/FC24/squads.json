@@ -25,7 +25,7 @@
   },
   "standard_squads": [
     {
-      "name": "Squads20240903000000",
+      "name": "Squads20240903",
       "db_version": 336,
       "status": 2,
       "export_date": 161397,
@@ -44,7 +44,7 @@
       "note": null
     },
     {
-      "name": "Squads20240820000000",
+      "name": "Squads20240820",
       "db_version": 335,
       "status": 2,
       "export_date": 161383,
@@ -63,7 +63,7 @@
       "note": null
     },
     {
-      "name": "Squads20240722000000",
+      "name": "Squads20240722",
       "db_version": 334,
       "status": 2,
       "export_date": 161334,
@@ -82,7 +82,7 @@
       "note": null
     },
     {
-      "name": "Squads20240704000000",
+      "name": "Squads20240704",
       "db_version": 333,
       "status": 2,
       "export_date": 161334,
@@ -101,7 +101,7 @@
       "note": null
     },
     {
-      "name": "Squads20240627000000",
+      "name": "Squads20240627",
       "db_version": 332,
       "status": 2,
       "export_date": 161327,
@@ -120,7 +120,7 @@
       "note": null
     },
     {
-      "name": "Squads20240626000000",
+      "name": "Squads20240626",
       "db_version": 331,
       "status": 2,
       "export_date": 161327,
@@ -139,7 +139,7 @@
       "note": null
     },
     {
-      "name": "Squads20240614000000",
+      "name": "Squads20240614",
       "db_version": 330,
       "status": 2,
       "export_date": 161308,
@@ -158,7 +158,7 @@
       "note": null
     },
     {
-      "name": "Squads20240611000000",
+      "name": "Squads20240611",
       "db_version": 329,
       "status": 2,
       "export_date": 161308,
@@ -177,7 +177,7 @@
       "note": null
     },
     {
-      "name": "Squads20240604000000",
+      "name": "Squads20240604",
       "db_version": 328,
       "status": 2,
       "export_date": 161293,
@@ -196,7 +196,7 @@
       "note": null
     },
     {
-      "name": "Squads20240522000000",
+      "name": "Squads20240522",
       "db_version": 327,
       "status": 2,
       "export_date": 161293,
@@ -215,7 +215,7 @@
       "note": null
     },
     {
-      "name": "Squads20240507000000",
+      "name": "Squads20240507",
       "db_version": 326,
       "status": 2,
       "export_date": 161278,
@@ -234,7 +234,7 @@
       "note": null
     },
     {
-      "name": "Squads20240429000000",
+      "name": "Squads20240429",
       "db_version": 325,
       "status": 2,
       "export_date": 161264,
@@ -253,7 +253,7 @@
       "note": null
     },
     {
-      "name": "Squads20240423000000",
+      "name": "Squads20240423",
       "db_version": 324,
       "status": 2,
       "export_date": 161264,
@@ -272,7 +272,7 @@
       "note": null
     },
     {
-      "name": "Squads20240416000000",
+      "name": "Squads20240416",
       "db_version": 323,
       "status": 2,
       "export_date": 161250,
@@ -291,7 +291,7 @@
       "note": null
     },
     {
-      "name": "Squads20240409000000",
+      "name": "Squads20240409",
       "db_version": 322,
       "status": 2,
       "export_date": 161250,
@@ -310,7 +310,7 @@
       "note": null
     },
     {
-      "name": "Squads20240404000000",
+      "name": "Squads20240404",
       "db_version": 321,
       "status": 2,
       "export_date": 161236,
@@ -329,7 +329,7 @@
       "note": null
     },
     {
-      "name": "Squads20240326000000",
+      "name": "Squads20240326",
       "db_version": 320,
       "status": 2,
       "export_date": 161236,
@@ -348,7 +348,7 @@
       "note": null
     },
     {
-      "name": "Squads20240319000000",
+      "name": "Squads20240319",
       "db_version": 319,
       "status": 2,
       "export_date": 161229,
@@ -367,7 +367,7 @@
       "note": null
     },
     {
-      "name": "Squads20240308000000",
+      "name": "Squads20240308",
       "db_version": 318,
       "status": 2,
       "export_date": 161217,
@@ -386,7 +386,7 @@
       "note": null
     },
     {
-      "name": "Squads20240307000000",
+      "name": "Squads20240307",
       "db_version": 317,
       "status": 2,
       "export_date": 161217,
@@ -405,7 +405,7 @@
       "note": null
     },
     {
-      "name": "Squads20240305000000",
+      "name": "Squads20240305",
       "db_version": 316,
       "status": 2,
       "export_date": 161215,
@@ -424,7 +424,7 @@
       "note": null
     },
     {
-      "name": "Squads20240301000000",
+      "name": "Squads20240301",
       "db_version": 315,
       "status": 2,
       "export_date": 161203,
@@ -443,7 +443,7 @@
       "note": null
     },
     {
-      "name": "Squads20240222000000",
+      "name": "Squads20240222",
       "db_version": 314,
       "status": 2,
       "export_date": 161203,
@@ -462,7 +462,7 @@
       "note": null
     },
     {
-      "name": "Squads20240215000000",
+      "name": "Squads20240215",
       "db_version": 313,
       "status": 2,
       "export_date": 161193,
@@ -481,7 +481,7 @@
       "note": null
     },
     {
-      "name": "Squads20240208000000",
+      "name": "Squads20240208",
       "db_version": 312,
       "status": 2,
       "export_date": 161188,
@@ -500,7 +500,7 @@
       "note": null
     },
     {
-      "name": "Squads20240207000000",
+      "name": "Squads20240207",
       "db_version": 311,
       "status": 2,
       "export_date": 161188,
@@ -519,7 +519,7 @@
       "note": null
     },
     {
-      "name": "Squads20240130000000",
+      "name": "Squads20240130",
       "db_version": 310,
       "status": 2,
       "export_date": 161179,
@@ -538,7 +538,7 @@
       "note": null
     },
     {
-      "name": "Squads20240126000000.308",
+      "name": "Squads20240126.308",
       "db_version": 309,
       "status": 2,
       "export_date": 161166,
@@ -557,7 +557,7 @@
       "note": null
     },
     {
-      "name": "Squads20240126000000",
+      "name": "Squads20240126",
       "db_version": 308,
       "status": 2,
       "export_date": 161166,
@@ -576,7 +576,7 @@
       "note": null
     },
     {
-      "name": "Squads20240117000000",
+      "name": "Squads20240117",
       "db_version": 307,
       "status": 2,
       "export_date": 161166,
@@ -595,7 +595,7 @@
       "note": null
     },
     {
-      "name": "Squads20240103000000",
+      "name": "Squads20240103",
       "db_version": 306,
       "status": 2,
       "export_date": 161133,
@@ -614,7 +614,7 @@
       "note": null
     },
     {
-      "name": "Squads20231214000000",
+      "name": "Squads20231214",
       "db_version": 305,
       "status": 2,
       "export_date": 161133,
@@ -633,7 +633,7 @@
       "note": null
     },
     {
-      "name": "Squads20231211000000",
+      "name": "Squads20231211",
       "db_version": 304,
       "status": 2,
       "export_date": 161130,
@@ -652,7 +652,7 @@
       "note": null
     },
     {
-      "name": "Squads20231205000000",
+      "name": "Squads20231205",
       "db_version": 303,
       "status": 2,
       "export_date": 161124,
@@ -671,7 +671,7 @@
       "note": null
     },
     {
-      "name": "Squads20231123000000",
+      "name": "Squads20231123",
       "db_version": 302,
       "status": 2,
       "export_date": 161112,
@@ -690,7 +690,7 @@
       "note": null
     },
     {
-      "name": "Squads20231120000000",
+      "name": "Squads20231120",
       "db_version": 301,
       "status": 2,
       "export_date": 161109,
@@ -709,7 +709,7 @@
       "note": null
     },
     {
-      "name": "Squads20231114000000",
+      "name": "Squads20231114",
       "db_version": 300,
       "status": 2,
       "export_date": 161103,
@@ -728,7 +728,7 @@
       "note": null
     },
     {
-      "name": "Squads20231108000000",
+      "name": "Squads20231108",
       "db_version": 299,
       "status": 2,
       "export_date": 161097,
@@ -747,7 +747,7 @@
       "note": null
     },
     {
-      "name": "Squads20231101000000",
+      "name": "Squads20231101",
       "db_version": 298,
       "status": 2,
       "export_date": 161088,
@@ -766,7 +766,7 @@
       "note": null
     },
     {
-      "name": "Squads20231030000000",
+      "name": "Squads20231030",
       "db_version": 297,
       "status": 2,
       "export_date": 161088,
@@ -785,7 +785,7 @@
       "note": null
     },
     {
-      "name": "Squads20231025000000",
+      "name": "Squads20231025",
       "db_version": 296,
       "status": 2,
       "export_date": 161083,
@@ -804,7 +804,7 @@
       "note": null
     },
     {
-      "name": "Squads20231023000000",
+      "name": "Squads20231023",
       "db_version": 295,
       "status": 2,
       "export_date": 161081,
@@ -823,7 +823,7 @@
       "note": null
     },
     {
-      "name": "Squads20231016000000",
+      "name": "Squads20231016",
       "db_version": 294,
       "status": 2,
       "export_date": 161074,
@@ -842,7 +842,7 @@
       "note": null
     },
     {
-      "name": "Squads20231012000000",
+      "name": "Squads20231012",
       "db_version": 293,
       "status": 2,
       "export_date": 161070,
@@ -861,7 +861,7 @@
       "note": null
     },
     {
-      "name": "Squads20231010000000",
+      "name": "Squads20231010",
       "db_version": 292,
       "status": 2,
       "export_date": 161068,
@@ -880,7 +880,7 @@
       "note": null
     },
     {
-      "name": "Squads20231005000000",
+      "name": "Squads20231005",
       "db_version": 291,
       "status": 2,
       "export_date": 161063,
@@ -901,7 +901,7 @@
   ],
   "fut_squads": [
     {
-      "name": "FutSquads20240722000000",
+      "name": "FutSquads20240722",
       "db_version": 55,
       "status": 2,
       "export_date": 161083,
@@ -920,7 +920,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20240627000000",
+      "name": "FutSquads20240627",
       "db_version": 54,
       "status": 2,
       "export_date": 161083,
@@ -939,7 +939,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20240614000000",
+      "name": "FutSquads20240614",
       "db_version": 53,
       "status": 2,
       "export_date": 161083,
@@ -958,7 +958,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20240604000000",
+      "name": "FutSquads20240604",
       "db_version": 52,
       "status": 2,
       "export_date": 161083,
@@ -977,7 +977,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20240429000000",
+      "name": "FutSquads20240429",
       "db_version": 51,
       "status": 2,
       "export_date": 161083,
@@ -996,7 +996,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20240416000000",
+      "name": "FutSquads20240416",
       "db_version": 50,
       "status": 2,
       "export_date": 161083,
@@ -1015,7 +1015,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20240404000000",
+      "name": "FutSquads20240404",
       "db_version": 49,
       "status": 2,
       "export_date": 161083,
@@ -1034,7 +1034,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20240308000000",
+      "name": "FutSquads20240308",
       "db_version": 48,
       "status": 2,
       "export_date": 161083,
@@ -1053,7 +1053,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20240301000000",
+      "name": "FutSquads20240301",
       "db_version": 47,
       "status": 2,
       "export_date": 161083,
@@ -1072,7 +1072,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20240208000000",
+      "name": "FutSquads20240208",
       "db_version": 46,
       "status": 2,
       "export_date": 161083,
@@ -1091,7 +1091,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20240126000000",
+      "name": "FutSquads20240126",
       "db_version": 45,
       "status": 2,
       "export_date": 161083,
@@ -1110,7 +1110,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20240103000000",
+      "name": "FutSquads20240103",
       "db_version": 44,
       "status": 2,
       "export_date": 161083,
@@ -1129,7 +1129,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20231128000000",
+      "name": "FutSquads20231128",
       "db_version": 43,
       "status": 2,
       "export_date": 161083,
@@ -1148,7 +1148,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20231114000000",
+      "name": "FutSquads20231114",
       "db_version": 42,
       "status": 2,
       "export_date": 161029,
@@ -1167,7 +1167,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20231101000000",
+      "name": "FutSquads20231101",
       "db_version": 41,
       "status": 2,
       "export_date": 161029,
@@ -1186,7 +1186,7 @@
       "note": null
     },
     {
-      "name": "FutSquads20231017000000",
+      "name": "FutSquads20231017",
       "db_version": 40,
       "status": 2,
       "export_date": 161029,
