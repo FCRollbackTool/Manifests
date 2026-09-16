@@ -339,7 +339,7 @@
       "uncompressed_size": 10366740,
       "compressed_size": 3805889,
       "type": 1,
-      "flags": 1,
+      "flags": 33,
       "db_flags": 0,
       "caches_flags": 1,
       "db_schema": "15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332",

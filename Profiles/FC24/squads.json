@@ -538,7 +538,7 @@
       "note": null
     },
     {
-      "name": "Squads20240126000000",
+      "name": "Squads20240126000000.308",
       "db_version": 309,
       "status": 2,
       "export_date": 161166,
@@ -548,7 +548,7 @@
       "uncompressed_size": 10514216,
       "compressed_size": 3090005,
       "type": 1,
-      "flags": 1,
+      "flags": 33,
       "db_flags": 0,
       "caches_flags": 1,
       "db_schema": "5e2511566c1f033768f8d517e3ca3f7ca4810b54",
@@ -557,7 +557,7 @@
       "note": null
     },
     {
-      "name": "Squads20240126000000.308",
+      "name": "Squads20240126000000",
       "db_version": 308,
       "status": 2,
       "export_date": 161166,
