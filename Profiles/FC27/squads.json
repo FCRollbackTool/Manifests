@@ -1,0 +1,51 @@
+{
+  "header": {
+    "version": 1,
+    "type": 2,
+    "flags": 0,
+    "game_profile": "FC27",
+    "updated_at": "2026-09-21T13:56:41.331641+00:00",
+    "revision": 1,
+    "standard_content_meta": {
+      "items_count": 1,
+      "content_version": "1180",
+      "content_date_version": "2026-08-05T00:00:00Z",
+      "total_uncompressed_size": 10762148,
+      "total_compressed_size": 3461375,
+      "featured": []
+    },
+    "fut_content_meta": {
+      "items_count": 0,
+      "content_version": "",
+      "content_date_version": null,
+      "total_uncompressed_size": 0,
+      "total_compressed_size": 0,
+      "featured": []
+    }
+  },
+  "standard_squads": [
+    {
+      "name": "Squads20260805",
+      "db_version": 1180,
+      "status": 2,
+      "export_date": 162071,
+      "build_date": "2026-08-05T00:00:00Z",
+      "released_at": "2026-08-05T00:00:00Z",
+      "released_on_tu": "",
+      "uncompressed_size": 10762148,
+      "compressed_size": 3461375,
+      "type": 1,
+      "release_type": 1,
+      "build_type": 0,
+      "release_attributes_flags": 0,
+      "flags": 1,
+      "db_flags": 5368709119,
+      "caches_flags": 1,
+      "db_schema": "5e52c0e8a9d2f60dbb0c57ef11ae0aebabeebd18",
+      "checksum_hash": "9b9decb4a9f96686",
+      "checksum_type": 1,
+      "note": ""
+    }
+  ],
+  "fut_squads": []
+}
