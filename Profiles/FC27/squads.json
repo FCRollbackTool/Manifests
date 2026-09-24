@@ -4,26 +4,48 @@
     "type": 2,
     "flags": 0,
     "game_profile": "FC27",
-    "updated_at": "2026-09-21T13:56:41.331641+00:00",
-    "revision": 1,
+    "updated_at": "2026-09-24T17:09:25.601640Z",
+    "revision": 2,
     "standard_content_meta": {
-      "items_count": 1,
-      "content_version": "1180",
-      "content_date_version": "2026-08-05T00:00:00Z",
-      "total_uncompressed_size": 10762148,
-      "total_compressed_size": 3461375,
+      "items_count": 2,
+      "content_version": "1188",
+      "content_date_version": "2026-09-15T00:00:00Z",
+      "total_uncompressed_size": 21559432,
+      "total_compressed_size": 7247332,
       "featured": []
     },
     "fut_content_meta": {
-      "items_count": 0,
-      "content_version": "",
-      "content_date_version": null,
-      "total_uncompressed_size": 0,
-      "total_compressed_size": 0,
+      "items_count": 1,
+      "content_version": "41",
+      "content_date_version": "2026-09-10T00:00:00Z",
+      "total_uncompressed_size": 10551368,
+      "total_compressed_size": 3666150,
       "featured": []
     }
   },
   "standard_squads": [
+    {
+      "name": "Squads20260915",
+      "db_version": 1188,
+      "status": 2,
+      "export_date": 162139,
+      "build_date": "2026-09-15T00:00:00Z",
+      "released_at": "2026-09-15T22:14:01Z",
+      "released_on_tu": "",
+      "uncompressed_size": 10797284,
+      "compressed_size": 3785957,
+      "type": 1,
+      "release_type": 2,
+      "build_type": 1,
+      "release_attributes_flags": 0,
+      "flags": 1,
+      "db_flags": 6174015476,
+      "caches_flags": 1,
+      "db_schema": "b41ea02452b29b3722aea0addd0cfb7c107a6e07",
+      "checksum_hash": "5c846b2eac789f4d",
+      "checksum_type": 1,
+      "note": null
+    },
     {
       "name": "Squads20260805",
       "db_version": 1180,
@@ -47,5 +69,28 @@
       "note": ""
     }
   ],
-  "fut_squads": []
+  "fut_squads": [
+    {
+      "name": "FutSquads20260910",
+      "db_version": 41,
+      "status": 2,
+      "export_date": 162118,
+      "build_date": "2026-09-10T00:00:00Z",
+      "released_at": "2026-09-11T00:08:36Z",
+      "released_on_tu": "",
+      "uncompressed_size": 10551368,
+      "compressed_size": 3666150,
+      "type": 2,
+      "release_type": 2,
+      "build_type": 2,
+      "release_attributes_flags": 0,
+      "flags": 1,
+      "db_flags": 5368709119,
+      "caches_flags": 1,
+      "db_schema": "3dd4ee5ab522ab92f4c7f17344bb42a0bd0f069c",
+      "checksum_hash": "588576438cfeda1d",
+      "checksum_type": 1,
+      "note": null
+    }
+  ]
 }
