@@ -4,7 +4,7 @@
     "type": 2,
     "flags": 0,
     "game_profile": "FC24",
-    "updated_at": "2026-09-21T13:56:41.322702+00:00",
+    "updated_at": "2026-09-21T13:56:41.322702Z",
     "revision": 1,
     "standard_content_meta": {
       "items_count": 46,
@@ -12,6 +12,7 @@
       "content_date_version": "2024-09-03T00:00:00Z",
       "total_uncompressed_size": 483653936,
       "total_compressed_size": 143637354,
+      "total_caches_size": 6564914,
       "featured": []
     },
     "fut_content_meta": {
@@ -20,6 +21,7 @@
       "content_date_version": "2024-07-22T00:00:00Z",
       "total_uncompressed_size": 166176276,
       "total_compressed_size": 51077397,
+      "total_caches_size": 311441,
       "featured": []
     }
   },

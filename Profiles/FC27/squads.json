@@ -12,6 +12,7 @@
       "content_date_version": "2026-09-15T00:00:00Z",
       "total_uncompressed_size": 21559432,
       "total_compressed_size": 7247332,
+      "total_caches_size": 4520410,
       "featured": []
     },
     "fut_content_meta": {
@@ -20,6 +21,7 @@
       "content_date_version": "2026-09-10T00:00:00Z",
       "total_uncompressed_size": 10551368,
       "total_compressed_size": 3666150,
+      "total_caches_size": 2788393,
       "featured": []
     }
   },
