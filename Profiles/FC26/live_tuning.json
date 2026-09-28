@@ -21,18 +21,22 @@
       "name": "Live Tuning Update #2",
       "version": 2,
       "released_at": "2025-10-29T22:48:10.532000Z",
+      "announced_at": "2025-10-29T22:48:10.532Z",
       "released_on_tu": "1.1.2",
       "caches_size": 2409,
       "caches_flags": 1,
+      "patch_notes_cid": "7mMyNrXN",
       "note": null
     },
     {
       "name": "Live Tuning Update #1",
       "version": 1,
       "released_at": "2025-10-24T00:13:49.455000Z",
+      "announced_at": "2025-10-24T00:13:49.455Z",
       "released_on_tu": "1.1.0",
       "caches_size": 2479,
       "caches_flags": 1,
+      "patch_notes_cid": "WRD2PJEa",
       "note": null
     }
   ]
